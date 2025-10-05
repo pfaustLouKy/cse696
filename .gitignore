@@ -12,3 +12,4 @@ __pycache__/
 *.pyc
 *.pyd
 *.so
+initialize.py
