@@ -1,0 +1,14 @@
+# Virtual Environment
+# Exclude the entire Python virtual environment folder
+/venv
+
+# Jupyter Notebook Output Files
+# Exclude checkpoint data created by Jupyter
+.ipynb_checkpoints/
+
+# Python compiled files
+# Exclude files created by Python compilation
+__pycache__/
+*.pyc
+*.pyd
+*.so
